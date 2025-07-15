@@ -47,8 +47,10 @@ neo4jWorkDir/
 # Data & Storage
 inputs/
 rag_storage/
-examples/input/
-examples/output/
+examples/doc-sample/*
+examples/unofficial-sample/*
+# examples/input/
+# examples/output/
 output*/
 
 # Miscellaneous
@@ -64,9 +66,14 @@ LightRAG.pdf
 download_models_hf.py
 lightrag-dev/
 gui/
+lightrag.service
 
 # unit-test files
 test_*
 
 # Cline files
 memory-bank/
+
+
+# tests files
+tests/*
