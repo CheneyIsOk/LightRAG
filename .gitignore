@@ -67,6 +67,7 @@ download_models_hf.py
 lightrag-dev/
 gui/
 lightrag.service
+lib/
 
 # unit-test files
 test_*
