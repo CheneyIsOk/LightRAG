@@ -76,5 +76,5 @@ test_*
 memory-bank/
 
 
-# tests files
-tests/*
+# # tests files
+# tests/*
